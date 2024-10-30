@@ -8,8 +8,8 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>pro.sky</groupId>
-	<artifactId>second.course.work</artifactId>
+	<groupId>pro.sky.second.course.work</groupId>
+	<artifactId>Second_course_work</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>second.course.work</name>
 	<description>Demo project for Spring Boot</description>
@@ -39,6 +39,12 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>com.github.javafaker</groupId>
+			<artifactId>javafaker</artifactId>
+			<version>1.0.2</version>
 		</dependency>
 	</dependencies>
 

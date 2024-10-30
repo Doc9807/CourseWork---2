@@ -1,6 +1,4 @@
 .mvn
-mvnw
-mvnw.cmd
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -34,3 +32,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/mvnw
+/mvnw.cmd
+/src/test/java/proSkySecondCourseWork/ApplicationTest
